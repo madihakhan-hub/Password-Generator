@@ -41,7 +41,6 @@ The following image shows the web application's appearance and functionality:
 
 ## Installation
 
-```
 1. After setting up our HTML and CSS files, we will edit our Javascript file to present the above functionality to generate a secure pass word.
 2. We will define the variables that which will include the password criteria.
 3. We will make sure there to set up a prompt which asks the use to verify the criteria. If text is entered that does not align with the criteria, the user will be provided with an alert notice. (Please see screenshot) ![image](https://github.com/madihakhan-hub/Password-Generator/assets/144630720/6064a2c0-9166-49cc-81c1-9385b2d7b3c1)
