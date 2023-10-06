@@ -39,30 +39,17 @@ The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
-## Steps in JavaScript
+## Installation
 
 ```
 1. After setting up our HTML and CSS files, we will edit our Javascript file to present the above functionality to generate a secure pass word.
 2. We will define the variables that which will include the password criteria.
-3. We will make sure there to set up a prompt which asks the use to verify the criteria. If text is entered that does not align with the criteria, the user will be provided with an alert notice. (Please see screenshot)
-
-![image](https://github.com/madihakhan-hub/Password-Generator/assets/144630720/6064a2c0-9166-49cc-81c1-9385b2d7b3c1)
-
+3. We will make sure there to set up a prompt which asks the use to verify the criteria. If text is entered that does not align with the criteria, the user will be provided with an alert notice. (Please see screenshot) ![image](https://github.com/madihakhan-hub/Password-Generator/assets/144630720/6064a2c0-9166-49cc-81c1-9385b2d7b3c1)
 4. We will combine the character sets that should be included in the password.
-5. We are now ready to generate the password using the 'for' loop *Be sure to include the return*
-
-![image](https://github.com/madihakhan-hub/Password-Generator/assets/144630720/ee6bc130-69f1-415c-9cbd-c90824622879)
-
+5. We are now ready to generate the password using the 'for' loop *Be sure to include the return* ![image](https://github.com/madihakhan-hub/Password-Generator/assets/144630720/ee6bc130-69f1-415c-9cbd-c90824622879)
 6. Now we will include the function to write the password.
-7. Make sure to add an event listener to generate the button!
-
-![image](https://github.com/madihakhan-hub/Password-Generator/assets/144630720/6dbb406e-f82b-4679-a8f7-13431ca7556b)
-
-Our finished webpage should look like this! Once we select the 'Generate Password' button, we should be prompted to verify the criteria we entered. Once all the questions are answered, the user will be provided with a randomly generated password!
-
-![image](https://github.com/madihakhan-hub/Password-Generator/assets/144630720/65731c9f-5eb8-4161-984c-d0080ab524a8)
-
-![image](https://github.com/madihakhan-hub/Password-Generator/assets/144630720/9e3d640d-d966-46a5-bd82-5a8c93c889ae)
+7. Make sure to add an event listener to generate the button! ![image](https://github.com/madihakhan-hub/Password-Generator/assets/144630720/6dbb406e-f82b-4679-a8f7-13431ca7556b)
+Our finished webpage should look like this! Once we select the 'Generate Password' button, we should be prompted to verify the criteria we entered. Once all the questions are answered, the user will be provided with a randomly generated password! ![image](https://github.com/madihakhan-hub/Password-Generator/assets/144630720/65731c9f-5eb8-4161-984c-d0080ab524a8) ![image](https://github.com/madihakhan-hub/Password-Generator/assets/144630720/9e3d640d-d966-46a5-bd82-5a8c93c889ae)
 
 
 
